@@ -1,0 +1,11 @@
+{
+  "name": "crypto-zombies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/justwaves/crypto-zombies.git",
+  "author": "uijin <justwaves@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "solium": "^1.2.5"
+  }
+}
