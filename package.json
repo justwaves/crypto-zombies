@@ -6,6 +6,7 @@
   "author": "uijin <justwaves@naver.com>",
   "license": "MIT",
   "dependencies": {
+    "@openzeppelin/contracts": "^3.0.1",
     "solium": "^1.2.5"
   }
 }
